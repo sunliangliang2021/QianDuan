@@ -1,0 +1,37 @@
+h1{
+    color: rgb(77,79,83);
+}
+
+#发布时间{
+    color: #968D92;
+    font-size: 13px;
+}
+
+a{
+    color: black;
+    /* 去下划线 定义为标准文本 */
+    text-decoration: none;
+}
+p{
+    /* 首行缩进 */
+    text-indent: 35px;
+    /* 行高 */
+    line-height: 40px;
+}
+
+#plast{
+    /* 对齐方式，字体靠右对齐 */
+    text-align: right;
+}
+
+#center{
+    width: 65%;
+    margin: 0 auto;
+}
+
+.tu{
+    width: 80%;
+    box-sizing: border-box;
+    margin-left: 10%;
+
+}
